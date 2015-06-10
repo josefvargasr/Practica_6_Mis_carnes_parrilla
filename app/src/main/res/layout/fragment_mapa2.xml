@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.josevargas.restaurate_mapas.mapa2">
+
+   <fragment
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:id="@+id/map"
+       class="com.google.android.gms.maps.MapFragment"
+       android:layout_weight="1"/>
+
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:id="@+id/lista"
+        android:layout_weight="3">
+    </ListView>
+
+</LinearLayout>

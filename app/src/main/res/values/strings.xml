@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Mis Carnes Parrilla</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">splash</string>
+    <string name="menu_editarSedes">Editar sedes</string>
+    <string name="add_sede">Añadir sede</string>
+    <string name="delete_sede">Eliminar sede</string>
+    <string name="change_sede">Cambiar sede</string>
+    <string name="nombre_sede">Nombre de la sede</string>
+    <string name="lat">Latitud</string>
+    <string name="lon">Longitud</string>
+    <string name="menu_mapa">Mapa</string>
+    <string name="title_activity_mapa">Map</string>
+    <string name="menu_home_page">Pagina principal</string>
+    <string name="info1">Si quieres comer de verdad y sientes un antojo incontenible por ese sabor especial que da la parrilla a
+        las mejores carnes maduras de res, cerdo, pollo y los más frescos pescados, visítanos en cualquiera de los más de 50 puntos
+        en Bogotá, Medellín, Armenia, Pereira, Montería, Ibagué, Cali, y Villavicencio. Nuestros chefs expertos y todo nuestro personal,
+        estamos dedicados a darte solamente lo mejor, para hacer de tu visita a Mis Carnes Parrilla... ¡Una experiencia deliciosa!</string>
+    <string name="toastcampos">Faltan campos por llenar</string>
+    <string name="CoordIncorr">Coordenadas incorrectas</string>
+    <string name="guardado">Se ha guardado la sede</string>
+    <string name="eliminado">Se ha eliminado la sede</string>
+    <string name="modificado">Se ha modificado la sede</string>
+    <string name="laSede">La sede </string>
+    <string name="datos">no se encuentra en nuestra base de datos</string>
+    <string name="usuario">Usuario</string>
+    <string name="nsedes">Número de sedes</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
